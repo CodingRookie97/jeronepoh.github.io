@@ -3119,6 +3119,7 @@ input, select, textarea {
 			}
 
 				#header.alt .logo img {
+					width: 300px;
 					display: block;
 					margin: 0 auto;
 					max-width: 75%;
